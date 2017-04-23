@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sinque.iml" filepath="$PROJECT_DIR$/Sinque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeechToText.iml" filepath="$PROJECT_DIR$/SpeechToText.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-sdk-0.2.1-aar-with-dependencies/android-sdk-0.2.1-aar-with-dependencies.iml" filepath="$PROJECT_DIR$/android-sdk-0.2.1-aar-with-dependencies/android-sdk-0.2.1-aar-with-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-sdk-0.2.1-aar-with-dependencies/android-sdk-0.2.1-aar-with-dependencies.iml" filepath="$PROJECT_DIR$/android-sdk-0.2.1-aar-with-dependencies/android-sdk-0.2.1-aar-with-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

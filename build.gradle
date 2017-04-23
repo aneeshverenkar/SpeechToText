@@ -5,7 +5,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.1.0'
+        classpath 'com.android.tools.build:gradle:2.3.1'
         //compile files('/java-sdk-3.7.2-jar-with-dependencies.jar')
 
         // NOTE: Do not place your application dependencies here; they belong
